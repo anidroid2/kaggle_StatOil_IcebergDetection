@@ -14,6 +14,8 @@ data2.py : Load test data in python environment
 
 main.py  : Implementation of the Keras CNN model and generation of output submission file at the end
 
+EDA.ipynb: Exploratory Data Analysis performed in iPythonNotebook.  
+
 ###Accuracy and Loss Graphs
 
 The program generates the graphs by storing Accuracy and Loss at every step.
