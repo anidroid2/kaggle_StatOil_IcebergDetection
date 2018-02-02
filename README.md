@@ -1,4 +1,4 @@
-#StatOil Iceberg Detection Challenge (Kaggle Competition)
+# StatOil Iceberg Detection Challenge (Kaggle Competition)
 
 Competition Link: https://www.kaggle.com/c/statoil-iceberg-classifier-challenge
 
@@ -6,7 +6,7 @@ This repository contains base code for that can be advanced further to achieve g
 
 Keras model of Convolution Neural Network to calssify images into Iceberg or Ship. Training and Test set images is provided by the competition organizers and can be downloaded from the competition website. 
 
-###File Description: 
+### File Description: 
 
 data1.py : Load training data in python environment
 
@@ -16,11 +16,10 @@ main.py  : Implementation of the Keras CNN model and generation of output submis
 
 EDA.ipynb: Exploratory Data Analysis performed in iPythonNotebook.  
 
-###Accuracy and Loss Graphs
+### Accuracy and Loss Graphs
 
 The program generates the graphs by storing Accuracy and Loss at every step.
 
-####Graph1: 
 
 ![](1.png?raw=true)
 
